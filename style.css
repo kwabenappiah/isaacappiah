@@ -100,10 +100,10 @@
     padding-left: 100px;
     padding-right: 100px;
     bottom: 0;
-    font-size: 15px;
+    font-size: 20px;
     transform: translateX(-50%, 50%);
-    opacity: 1;
-    color: #FFFFFF;
+    opacity: 5;
+    color: #17A2B8;
 }
 
 .img-text-wrapper:hover .subtitle {
@@ -124,19 +124,19 @@
 
 .about-navbar-custom
 {
-    background-color: #DAA520;
+    background-color: #FFFFFF;
 }
 
 .navbar-toggler
 {
-    background-color: #FFF;
+    background-color: #17A2B8;
 }
 
 #btn-lang
 {
     border: 20px solid;
-    border-color: #FFF;
-    color: #FFF;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
     font-weight: bold;
 }
 
@@ -157,19 +157,19 @@
 
 #portfolio-title
 {
-    background-color: #808000;
+    background-color: #E83E8C;
 }
 
 #about-title
 {
-    background-color: #FF8C00;
+    background-color: #E83E8C;
 }
 
 .title-text div a {
     display: inline-block;
     text-decoration: none;
-    color: #FFF;
-    border: 1px solid #FFF;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
     padding: 12px 34px;
     font-size: 25px;
     background: transparent;
@@ -178,8 +178,8 @@
 }
 
 .title-text div a:hover{
-    border: 1px solid #808080;
-    background: #808000;
+    border: 1px solid #17A2B8;
+    background: #17A2B8;
     transition: 1s;
 }
 
@@ -219,7 +219,7 @@
 
 .index-header
 {
-    color: #FF8C00;
+    color: #E83E8C;
     font-weight: bold;
     margin-bottom: 20px;
     padding: 10px;
@@ -229,7 +229,7 @@
 {
     margin: 10px 0 10px 0;
     background-color: #051006ab;
-    color: #FFFFFF;
+    color: #17A2B8;
     padding: 5px 0 5px 0;
 }
 
@@ -267,13 +267,13 @@
 
 .title-link
 {
-    color: #808000;
+    color: #E83E8C;
 }
 
 .title-link:hover
 {
     text-decoration: none;
-    color: #808000;
+    color: #17A2B8;
 }
 
 .col-md-5
@@ -297,7 +297,7 @@
 .bold
 {
     font-weight: bold;
-    color: #808000;
+    color: #17A2B8;
 }
 .portfolio-img
 {
@@ -314,7 +314,7 @@
 .portfolio-btn
 {
     margin: 10px 0 10px 0;
-    background-color: #808000;
+    background-color: #E83E8C;
     color: #FFFFFF;
 }
 
@@ -435,7 +435,7 @@
   height: 25px;
   right: -17px;
   background-color: white;
-  border: 4px solid #FF9F55;
+  border: 4px solid #E83E8C;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
